@@ -4,6 +4,7 @@ install.packages("choroplethr")
 install.packages("dplyr")
 install.packages("choroplethrMaps")
 
+library(XLConnect)
 library(plyr)
 library(choroplethr)
 library(choroplethrMaps)

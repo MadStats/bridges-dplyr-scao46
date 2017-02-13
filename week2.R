@@ -1,8 +1,8 @@
-install.packages("ggplot2")
-install.packages("plyr")
-install.packages("choroplethr")
-install.packages("dplyr")
-install.packages("choroplethrMaps")
+#install.packages("ggplot2")
+#install.packages("plyr")
+#install.packages("choroplethr")
+#install.packages("dplyr")
+#install.packages("choroplethrMaps")
 
 library(plyr)
 library(choroplethr)
